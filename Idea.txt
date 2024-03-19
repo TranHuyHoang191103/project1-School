@@ -23,9 +23,10 @@ Trang web giáo viên
 -----------------------------------------------
 ADMIN
 ---------------------------------
-Lưu trữ + cập nhập các ngành học(môn học sẽ đc chia theo ngành học,1 ngành sẽ đc chia ra theo các kì ,1 kì sẽ có những môn )
-Nhận đăng kí học phần xong tính học phí rồi xếp lịch(tự động hoặc người nhập)
+Lưu trữ + cập nhập các ngành học()
+Nhận đăng kí học phần xong tính học phí rồi xếp lịch
 Tiếp nhận đơn giảm tiền học
+Quản lí cơ sở vật chất 
 Quản lí học sinh
 Quản lí giáo viên
 Quản lí tin tức
