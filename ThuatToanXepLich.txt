@@ -1,0 +1,8 @@
+Thuật toán vét cạn
+Lịch học được phân như sau:1 kì học có 
+15 tuần học.Kiểm tra xem học phần đấy bao nhiêu tín xong đó chia ra 1 tuần bao nhiêu tín(ko đc quá 5 tiết 1 buôi) rồi đến phân phòng học .Kiểm tra học phần đó 
+là lí thuyết hoặc thực hành rồi kiểm tra
+số lượng học sinh (ví dụ có 2 lớp cùng học phần và thiếu thầy cô giảng dậy thì gộp vào 2 lớp )Tiếp đó phân tiết (kiểm tra 2 ca từ 1->6 và 7->12 và các môn học khác 
+ có trùng ko).xếp phòng có đủ phòng học..Kiểm tra trước phòng học của khoa nếu ko đủ thì 
+chuyển sang khu vực chung. 
+Thuật toán Di Truyền (GA)

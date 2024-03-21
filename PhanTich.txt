@@ -28,21 +28,17 @@ Phòng học mã phòng học, mã tầng ,loại phòng, số người,trạng 
 ------------------------------------------------------------------------------------------------------------
 Thêm thông tin học sinh
   Điền thông tin sinh viên + ngành mà học sinh theo sau đó sinh ra mã sinh viên
-Mã sinh viên đc tạo ra 2 số đầu là số năm bắt đầu học ,2 số tiếp theo thể hiện cơ sở,2 số tiếp theo là ngành, 5 số cuối là thứ tự nhập học lúc vào khoa(Không sửa được 
+Mã sinh viên đc tạo ra 2 số đầu là số năm bắt đầu học ,2 số tiếp theo thể hiện cơ sở,2 số tiếp theo là ngành, 5 số cuối là thứ tự nhập học
+ lúc vào khoa(Không sửa được 
 mã sinh viên nếu sinh viên sang ngành khác nhưng vẫn có thể sắp kiểu khác) 
  Xong khi đặt mã xong thì xếp lớp, Lớp cứ 50 người sẽ xếp lớp khác
-
-  Đến kì học ,thầy cô trưởng khoa sẽ từ app xây dựng các môn trong kì, phân công thầy cô giảng dạy .Chuyển đến addmin để xếp lịch.Lịch học được phân như sau:1 kì học có 
-15 tuần học.Kiểm tra xem học phần đấy bao nhiêu tín xong đó chia ra 1 tuần bao nhiêu tín(ko đc quá 5 tiết 1 buôi) rồi đến phân phòng học .Kiểm tra học phần đó 
-là lí thuyết hoặc thực hành rồi kiểm tra
-số lượng học sinh (ví dụ có 2 lớp cùng học phần và thiếu thầy cô giảng dậy thì gộp vào 2 lớp )Tiếp đó phân tiết (kiểm tra 2 ca từ 1->6 và 7->12 và các môn học khác 
- có trùng ko).xếp phòng có đủ phòng học..Kiểm tra trước phòng học của khoa nếu ko đủ thì 
-chuyển sang khu vực chung. Cuối cùng sinh ra mã lớp học phần (4 số đầu:0101  + 6 số đâu: mã học phần +2 số cuối:số thứ tự lớp đc tạo)
+  Đến kì học ,thầy cô trưởng khoa sẽ từ app xây dựng các môn trong kì, phân công thầy cô giảng dạy .Chuyển đến addmin để xếp lịch.Cuối cùng
+sinh ra mã lớp học phần (4 số đầu:0101  + 6 số đâu: mã học phần +2 số cuối:số thứ tự lớp đc tạo)
 Gửi đến cho giảng viên và học sinh
+
  Trong quá trình điểm danh hs (nghỉ phép và ko phép).Cuối kì nhập điểm và tính điểm chuyên cần gửi danh sách lập danh sách thi và xếp lịch thi gửi lịch đến trưởng khoa 
 phân công coi .
  Nhập điểm thi và xét danh sách sinh viên thi lại và học lại. Mở đăng kí thi lại và xếp lịch thi luôn (thi trong 3 tuần và thi lại....)
  Tích đã nộp khi sinh viên đóng tiền học 
  
-
- 
+ Kết quả học tập lưu trong thông tin sinh viên như sau:
